@@ -1,3 +1,5 @@
+使用flume抓取数据库表的数据封装成json，发送到channel
+
 Flume-ng安装
   解压安装包，将jsonfordb程序打包好即jsonfordb-1.0-SNAPSHOT.jar，
   拷贝到解压后的flume-ng/lib中（flume-ng压缩包中已有该jar，如jsonfordb重新开发了，则打包替换）。
